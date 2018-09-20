@@ -1,0 +1,144 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../src/imgs/whitemountains.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-template-rows: repeat(auto-fit, minmax(250px, 1fr));
+    column-gap: 15px;
+    row-gap: 15px;
+    max-width: 960;
+    justify-content: center;
+}
+
+
+.main {
+    width: 1fr;
+    height: 1fr;
+    background-color: #ffffff60;
+
+    padding: 10px;
+    margin: 20px;
+}
+
+.content {
+    width: 100%;
+    height: 1fr;
+    justify-content: center;
+}
+
+.caption {
+    justify-content: center;
+
+}
+
+header {
+    color: white;
+    background-color: #ffffff60;
+
+    padding: 10px;
+    margin: 20px;
+}
+
+div {}
+
+.overlay {
+    position: absolute;
+    width: 95%;
+    height: 95%;
+    transition: 2s;
+    background-color: white;
+    background-clip: padding-box;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+}
+
+h1 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {}
+
+.caption {
+    position: relative;
+    bottom: 2rem;
+    text-align: center;
+    color: white;
+    background: #00000034;
+    padding: 0.5rem;
+}
+
+@keyframes dropdown {
+    0% {
+        background-color: white;
+    }
+
+    40% {
+        background-color: white;
+        opacity: 0;
+        transform: translate(0, 100%)
+    }
+
+    60% {
+        background-color: white;
+        opacity: 0;
+        transform: translate(0, 100%)
+    }
+
+    80% {
+        background-color: white;
+        opacity: 0.2;
+    }
+
+    100% {
+        background-color: white;
+    }
+}
+
+.overlay:active {
+    /* transform: translate(0, 100%); */
+    /* opacity: 0; */
+    animation: dropdown 4s both;
+}
+
+#one {
+    order: 1;
+
+}
+
+#two {
+    order: 2;
+
+}
+
+#three {
+    order: 3;
+
+}
+
+#four {
+    order: 4;
+}
+
+#five {
+    order: 5;
+}
+
+#six {
+    order: 6;
+}
+
+#seven {
+    order: 7;
+}

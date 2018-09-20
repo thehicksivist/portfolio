@@ -1,0 +1,6 @@
+/* reset feature to ensure these settings aren't set by the browser launching the site */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}

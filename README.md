@@ -1,7 +1,7 @@
 # My Portfolio
 
 ## Link to portfolio
-
+http://thehicksivist.github.io
 
 ## Link to GitHub repo
 https://github.com/thehicksivist/portfolio
@@ -51,6 +51,32 @@ Planning
 - Sketch out html elements to build
 - Update Trello boards with timeline of build, split into tests, actual build and review
 - Create initial directories and github repo
+
+Resources
+fonts;
+https://archetypeapp.com/#
+
+background images;
+https://www.pexels.com/
+
+icons;
+https://www.iconfinder.com/
+
+mongo db logo;
+https://ih1.redbubble.net/image.352416471.2750/flat,550x550,075,f.u1.jpg
+
+vscode logo;
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png
+
+paint.net for editing logos
+https://www.dotpdn.com/downloads/pdn.html
+
+copywrite considerations;
+https://support.google.com/legal/answer/3463239?sa=X&ved=2ahUKEwjZm_mYncvdAhVFv7wKHVVRDukQlZ0DegQIARAB
+http://www.dmlp.org/legal-guide/fair-use
+https://legalvision.com.au/use-another-logo/
+https://www.brigittelyons.com/media-logos/
+
 
 ### Project plan & timeline
 Day 1

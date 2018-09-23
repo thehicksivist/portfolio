@@ -74,11 +74,38 @@ To access the internet, you require a web browser; a piece of software which pro
 In 1997 a website was launched called Six Degrees, and it was one of the first recognisable examples of it's kind today. Over 20 years since it's inception, Social Media has grown into what is now a large part of why people use the internet, with Facebook, Twitter and Instagram within the top 15 most popular websites in 2018. Most social network platforms have both public and private access, connecting people via content in word and picture formats, where they can have private discussions through messaging, or have group/public discussions around particular pieces of content. This has enabled the creation of closed and open communities, friendships and even romantic relationships, of which would not have happened without these tools. Within these connections people have been helping individuals solve personal problems, groups to voice their issues to the public and the world to begin to come together and see the bigger picture.
 
 ### Notepad Sketches
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Notepad/notepad%20page%20one%20initial%20design.jpg">
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Notepad/notepad%20page%20two%20structure%20and%20features.jpg">
 <img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Notepad/notepad%20page%203%20html%20structure.jpg">
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Notepad/notepad%20page%204%20text%20drafting.jpg">
+
 ### Wireframes
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Wireframes/Mobile%20Wireframe.png">
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Wireframes/Tablet%20Wireframe.png">
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Wireframes/Desktop%20Wireframe.png">
 
 ### Screenshots of Trello board(s)
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Trello%20Screens/Trello%201%20Master%20checklists.png">
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Trello%20Screens/Trello%202%20Initial%20Board.png">
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Trello%20Screens/Trello%203%20Planning%20Update.png">
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Trello%20Screens/Trello%204%20Thursday%20Start%20Board.png">
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Trello%20Screens/Trello%205%20Test%20Card%20Example.png">
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Trello%20Screens/Trello%206%20Friday%20Start%20Board.png">
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Trello%20Screens/Trello%207%20Friday%20Halfway.png">
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Trello%20Screens/Trello%208%20Friday%20Issue.png">
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Trello%20Screens/Trello%209%20Saturday%20Start%20Board.png">
 
-### Screenshots
+### Screenshots of Testing
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Test%20Screens/Test%201%20background%201.png">
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Test%20Screens/Test%201%20background%202.png">
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Test%20Screens/Test%202%20Overlay%20with%20flex.png">
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Test%20Screens/Test%203%20flextest.png">
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Test%20Screens/Test%204%20grid.png">
 
-
+### Screenshots of Site
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Site%20Screens/Mobile%201.png">
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Site%20Screens/Mobile%202.png">
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Site%20Screens/Mobile%203.png">
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Site%20Screens/Mobile%204.png">
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Site%20Screens/Tablet%20Desktop%201.png">
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Site%20Screens/Tablet%20Desktop%202%20showing%20colour%20feature.png">

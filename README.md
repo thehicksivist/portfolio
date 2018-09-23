@@ -4,21 +4,21 @@
 
 
 ## Link to GitHub repo
-https://github.com/thehicksivist/
+https://github.com/thehicksivist/portfolio
 
 ## Description
 EXPLORE: The portfolio of James Hicks
 
 ### Purpose
 To attract potential connections for career opportunities as a junior web developer
+
 ### Functionality / features
-Simple scroll up+down layout, with transparent sections set against a black and white background. 
-Coloured images are hidden behind white overlays, user is directed to clicl/tap and hold to 'explore'.
-Other hidden colours are displayed in the same way (or mouse hover for desktop) to reqard further exploration of the page.
+- Simple scroll up+down layout, with transparent sections set against a black and white background. 
+- Coloured images are hidden behind white overlays, user is directed to click/tap and hold to 'explore'.
+- Other hidden colours are displayed in the same way (or mouse hover for desktop) to reqard further exploration of the page.
 
 ### Sitemap
-
-### Screenshots
+N/A - single page site.
 
 ### Target audience
 Employers, entreprenuers and other coders in the tech world
@@ -27,18 +27,17 @@ Employers, entreprenuers and other coders in the tech world
 Written in HTML and CSS
 
 ## Design documentation
-- wireframe, notepad sketches
+- wireframe, notepad sketches(images at bottom of readme)
 
 ### Design process
 Sketch in notepad, create wireframe in Pencil, run tests on individual features during build to ensure they will function
 
-### Wireframes
-
-
 ### Personal logo (optional)
-None
+N/A
+
 ### Usability considerations
 Ensured layout is viewable and functional on various mobile and tablet platforms as well as desktop.
+
 ## Details of planning process
 Preparation and Research
 - Read all documents, taking notes on what my focus would be
@@ -64,9 +63,22 @@ Day 2
 - (Lunch)
 - Reflect on development, create presdentation and compile docs
 
-### Screenshots of Trello board(s)
-
 ## Short Answer Q&A - Include short answers to the following questions,
 1. Describe key events in the development of the internet from the 1980s to today (max. 150 words)
+In the 1980s, after being hired by IBM Paul Allen and Bill Gates developed DOS which was the stepping stone to the creation of Microsoft Windows, which happened just 3 years later. In the same year, 1983, Domain Name System was invented, along with the original and still used names; com, edu, gov, org, net etc. With theses systems came the launch of the web to the public in 1991. Just four years later, the massive companies of Amazon, Ebay and Hotmail were founded. Not long after, the search giant Google emerged, along with Paypal in 1998. Social media sites began to appear after this, Facebook in 2004, Youtube in 2005, Instagram in 2010, and by 2012 Facebook reached 1 billion users. By 2014 mobiles accounted for 25 percent of all web usage.
+
 2.  Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)
+To access the internet, you require a web browser; a piece of software which provides a gateway from your computer to view websites. Website information is stored on web servers, which are a combination of software and hardware which stores the data associated with websites, such as images, html, css and javascript files. In order to access this data, you type in a web address (domain) into your browser, your Internet Service Provider views the Domain Name Server (the directory where domain names are stored) associated with the domain, translates it into a machine friendly IP address and directs your internet connection to the correct website.  
+
 3.  Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
+In 1997 a website was launched called Six Degrees, and it was one of the first recognisable examples of it's kind today. Over 20 years since it's inception, Social Media has grown into what is now a large part of why people use the internet, with Facebook, Twitter and Instagram within the top 15 most popular websites in 2018. Most social network platforms have both public and private access, connecting people via content in word and picture formats, where they can have private discussions through messaging, or have group/public discussions around particular pieces of content. This has enabled the creation of closed and open communities, friendships and even romantic relationships, of which would not have happened without these tools. Within these connections people have been helping individuals solve personal problems, groups to voice their issues to the public and the world to begin to come together and see the bigger picture.
+
+### Notepad Sketches
+
+### Wireframes
+
+### Screenshots of Trello board(s)
+
+### Screenshots
+
+

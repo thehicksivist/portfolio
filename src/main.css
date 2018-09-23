@@ -88,6 +88,17 @@ img {
     background-color: #ffffff60;
 }
 
+/* To ensure text will not be selected (it was stopping the transitions and animations from working) */
+
+.noselect {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
 /* SMALL TWEAKS BELOW */
 /* had to use id for profile image as resizes conflicted with imgs */
 #profile {

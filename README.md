@@ -74,7 +74,7 @@ To access the internet, you require a web browser; a piece of software which pro
 In 1997 a website was launched called Six Degrees, and it was one of the first recognisable examples of it's kind today. Over 20 years since it's inception, Social Media has grown into what is now a large part of why people use the internet, with Facebook, Twitter and Instagram within the top 15 most popular websites in 2018. Most social network platforms have both public and private access, connecting people via content in word and picture formats, where they can have private discussions through messaging, or have group/public discussions around particular pieces of content. This has enabled the creation of closed and open communities, friendships and even romantic relationships, of which would not have happened without these tools. Within these connections people have been helping individuals solve personal problems, groups to voice their issues to the public and the world to begin to come together and see the bigger picture.
 
 ### Notepad Sketches
-
+<img src="https://github.com/thehicksivist/portfolio/blob/master/docs/Notepad/notepad%20page%203%20html%20structure.jpg">
 ### Wireframes
 
 ### Screenshots of Trello board(s)

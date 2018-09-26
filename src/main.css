@@ -119,6 +119,8 @@ h1 {
 
 .quote {
     float: left;
+    margin: 0 0 1rem;
+    width: 100%;
 }
 
 p {
